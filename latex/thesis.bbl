@@ -1,0 +1,97 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{2020011710}{book}{}
+      \name{author}{1}{}{%
+        {{hash=87ebb40f0e1d81e10734c079b4e0fbd5}{%
+           family={https://ninja-build.org/manual.html},
+           familyi={h\bibinithyphendelim b\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{87ebb40f0e1d81e10734c079b4e0fbd5}
+      \strng{fullhash}{87ebb40f0e1d81e10734c079b4e0fbd5}
+      \strng{bibnamehash}{87ebb40f0e1d81e10734c079b4e0fbd5}
+      \strng{authorbibnamehash}{87ebb40f0e1d81e10734c079b4e0fbd5}
+      \strng{authornamehash}{87ebb40f0e1d81e10734c079b4e0fbd5}
+      \strng{authorfullhash}{87ebb40f0e1d81e10734c079b4e0fbd5}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{langid}{english}
+      \field{usera}{M}
+      \field{userd}{english}
+      \field{userf}{english}
+      \keyw{2020011710}
+    \endentry
+    \entry{2020022016}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0a5e0ff4368578665b57aef66df42424}{%
+           family={https://elinux.org/Android-4.1.1\_r4},
+           familyi={h\bibinithyphendelim 4\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{0a5e0ff4368578665b57aef66df42424}
+      \strng{fullhash}{0a5e0ff4368578665b57aef66df42424}
+      \strng{bibnamehash}{0a5e0ff4368578665b57aef66df42424}
+      \strng{authorbibnamehash}{0a5e0ff4368578665b57aef66df42424}
+      \strng{authornamehash}{0a5e0ff4368578665b57aef66df42424}
+      \strng{authorfullhash}{0a5e0ff4368578665b57aef66df42424}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{langid}{english}
+      \field{usera}{M}
+      \field{userd}{english}
+      \field{userf}{english}
+      \keyw{2020022016}
+    \endentry
+    \entry{2020012010}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a62ea01667163c7b970eabdd5620c0a0}{%
+           family={https://stackoverflow.com/questions/25084288/keep-ssh-session-alive},
+           familyi={h\bibinithyphendelim s\bibinithyphendelim s\bibinithyphendelim a\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{a62ea01667163c7b970eabdd5620c0a0}
+      \strng{fullhash}{a62ea01667163c7b970eabdd5620c0a0}
+      \strng{bibnamehash}{a62ea01667163c7b970eabdd5620c0a0}
+      \strng{authorbibnamehash}{a62ea01667163c7b970eabdd5620c0a0}
+      \strng{authornamehash}{a62ea01667163c7b970eabdd5620c0a0}
+      \strng{authorfullhash}{a62ea01667163c7b970eabdd5620c0a0}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{langid}{english}
+      \field{usera}{M}
+      \field{userd}{english}
+      \field{userf}{english}
+      \keyw{2020012010}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
